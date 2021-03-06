@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="winners_message" type="id"></item>
+    <item name="play_again_layout" type="id"></item>
+    <item name="grid_layout" type="id"></item>
+</resources>

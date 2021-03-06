@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My Application  ----tic tac toe</string>
+    <string name="todo">10</string>
+    <string name="TextView">10</string>
+    <string name="play_again">10</string>
+</resources>
